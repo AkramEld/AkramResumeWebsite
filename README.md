@@ -5,20 +5,13 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Back end: Ruby on Rails
 
-* System dependencies
+* Front end: html, php, css, javascript
 
-* Configuration
+Front page: 
 
-* Database creation
 
-* Database initialization
 
-* How to run the test suite
+<img width="960" alt="akramwebsite" src="https://user-images.githubusercontent.com/33161840/33224248-4b2f5e3c-d135-11e7-9597-947a54e101f0.PNG">
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
