@@ -9,6 +9,9 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/assets/javascripts/application.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/welcome/index.html.erb" afterPath="$PROJECT_DIR$/app/views/welcome/index.html.erb" />
+<<<<<<< HEAD
+>>>>>>> parent of d2a2ae0... resume update
+=======
 >>>>>>> parent of d2a2ae0... resume update
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
@@ -39,8 +42,13 @@
         <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
             <state relative-caret-position="350">
               <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+=======
+            <state relative-caret-position="475">
+              <caret line="19" column="47" lean-forward="false" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+>>>>>>> parent of d2a2ae0... resume update
 =======
             <state relative-caret-position="475">
               <caret line="19" column="47" lean-forward="false" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
@@ -189,7 +197,12 @@
     </navigator>
     <panes>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <pane id="RailsProjectView" />
+=======
+      <pane id="Scope" />
+      <pane id="Scratches" />
+>>>>>>> parent of d2a2ae0... resume update
 =======
       <pane id="Scope" />
       <pane id="Scratches" />
@@ -253,8 +266,12 @@
         </subPane>
       </pane>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <pane id="Scratches" />
       <pane id="Scope" />
+=======
+      <pane id="RailsProjectView" />
+>>>>>>> parent of d2a2ae0... resume update
 =======
       <pane id="RailsProjectView" />
 >>>>>>> parent of d2a2ae0... resume update
@@ -383,10 +400,14 @@
       <workItem from="1512247680729" duration="398000" />
       <workItem from="1512283032335" duration="4063000" />
 <<<<<<< HEAD
+<<<<<<< HEAD
       <workItem from="1513997410942" duration="8984000" />
       <workItem from="1514492351990" duration="635000" />
       <workItem from="1514493203003" duration="388000" />
       <workItem from="1515907136934" duration="332000" />
+=======
+      <workItem from="1513997410942" duration="6937000" />
+>>>>>>> parent of d2a2ae0... resume update
 =======
       <workItem from="1513997410942" duration="6937000" />
 >>>>>>> parent of d2a2ae0... resume update
@@ -395,7 +416,11 @@
   </component>
   <component name="TimeTrackingManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="48363000" />
+=======
+    <option name="totallyTimeSpent" value="44961000" />
+>>>>>>> parent of d2a2ae0... resume update
 =======
     <option name="totallyTimeSpent" value="44961000" />
 >>>>>>> parent of d2a2ae0... resume update
@@ -796,8 +821,13 @@
     <entry file="file://$PROJECT_DIR$/app/views/welcome/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
         <state relative-caret-position="500">
           <caret line="20" column="43" lean-forward="true" selection-start-line="20" selection-start-column="43" selection-end-line="21" selection-end-column="53" />
+=======
+        <state relative-caret-position="475">
+          <caret line="19" column="47" lean-forward="false" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
+>>>>>>> parent of d2a2ae0... resume update
 =======
         <state relative-caret-position="475">
           <caret line="19" column="47" lean-forward="false" selection-start-line="19" selection-start-column="47" selection-end-line="19" selection-end-column="47" />
@@ -809,10 +839,13 @@
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
+<<<<<<< HEAD
         <state relative-caret-position="350">
           <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
           <folding />
 =======
+=======
+>>>>>>> parent of d2a2ae0... resume update
         <state relative-caret-position="-2761">
           <caret line="3" column="2" lean-forward="false" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
           <folding>
@@ -822,6 +855,9 @@
             <element signature="n#style#0;n#p1#0;n#div#4;n#body#1;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p2#0;n#div#4;n#body#1;n#html#0;n#!!top" expanded="true" />
           </folding>
+<<<<<<< HEAD
+>>>>>>> parent of d2a2ae0... resume update
+=======
 >>>>>>> parent of d2a2ae0... resume update
         </state>
       </provider>
